@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Melnikov Artem](https://up.htmlacademy.ru/htmlcss/29/user/1598147).
-* Наставник: `Неизвестно`.
+* Наставник: [Владислав Андреев](https://htmlacademy.ru/profile/id1219887).
 
 ---
 
